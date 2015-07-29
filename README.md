@@ -1,8 +1,4 @@
----
-languages: javascript
-tags: beginner, number, OO
-resources: 2
----
+
 
 # Dice
 
