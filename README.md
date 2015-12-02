@@ -1,9 +1,3 @@
----
-languages: javascript
-tags: beginner, number, OO
-resources: 2
----
-
 # Dice
 
 For this lab you'll need to create a JavaScript constructor function.  The skeleton of the code is already laid out in `lib/dice.js`.  All you will need to do is add to the code to make it work
@@ -47,3 +41,5 @@ learn
 #to run in the browser
 learn -b
 ```
+
+<a href='https://learn.co/lessons/dice-oo.js' data-visibility='hidden'>View this lesson on Learn.co</a>
